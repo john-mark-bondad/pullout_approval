@@ -1,2 +1,2 @@
 # pullout_approval
-Used to pullout current stocks in inventory.
+Used to approve and disapprove pullout_request.
