@@ -1,2 +1,2 @@
 # pullout_approval
-Used to approve and disapprove pullout_request.
+Used to approve or disapprove pullout_request.
